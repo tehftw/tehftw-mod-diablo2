@@ -1,0 +1,1 @@
+nerfed monsters, multiplying values by: [norm, night, hell]; TH: [0.8 , 0.6 , 0.4] , HP: [0.9 , 0.7 , 0.5] , DMG: [0.95 , 0.9 , 0.85]
