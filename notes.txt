@@ -9,3 +9,13 @@ TH [ 0.9, 0.7 , 0.5 ]
 HP [ 1, 0.4 , 0.2 ]
 
 DMG[ 1 , 0.8 , 0.6 ]
+
+---	
+
+1. lower numbers are better. only normies like high numbers for the sake of high numbers. keep the numbers low!
+
+2. 1-hit-kill is bad. damage should be balanced in such a way, that a character of correct level with nonperfect blue gear can survive. not "just stand like the main character of bad animango whilst everything hits you", rather "stay on your feet and you won't die"
+
+3. but, if you get surrounded - your problem, and you deserve death. crowd control should be a big part of game
+
+4. important quote I heard: "dont linger" whilst playing Gauntlet
