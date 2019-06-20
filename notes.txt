@@ -16,6 +16,15 @@ TODO:
 
 1. elemental resistance jewelry recipes
 
+2. sockets, sockets, sockets! sockets in boots, gloves, belt!
+
+
+BAR:
+
+1. only 1 BARbarian warcry-buff effect at the same time
+
+2. revamp "weapon mastery". Maybe separate passives: CriticalStrike , CrushingBlow , OpenWounds , MagicDamage
+
 
 ---	
 
