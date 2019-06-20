@@ -12,6 +12,13 @@ DMG[ 1 , 0.8 , 0.6 ]
 
 ---	
 
+TODO:
+
+1. elemental resistance jewelry recipes
+
+
+---	
+
 1. lower numbers are better. only normies like high numbers for the sake of high numbers. keep the numbers low!
 
 2. 1-hit-kill is bad. damage should be balanced in such a way, that a character of correct level with nonperfect blue gear can survive. not "just stand like the main character of bad animango whilst everything hits you", rather "stay on your feet and you won't die"
