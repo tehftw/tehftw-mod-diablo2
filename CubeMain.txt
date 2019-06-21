@@ -157,8 +157,8 @@ Magic ring + jewel + Perf Saphire + r10 - > rar Nofreeze ring	1			100					4	rin,
 firering1	1			0					3	rin	gfr	gsr					rin,crf	30			res-fire			12	20	stam			10	25																																																																										0
 coldring1	1			0					3	rin	gfb	gsb					rin,crf	30			res-cold			12	20	half-freeze			1	1																																																																										0
 ltngring1	1			0					3	rin	gfy	gsy					rin,crf	30			res-ltng			12	20	light			1	2																																																																										0
-poisring1	1			0					3	rin	gfg	gsg					rin,crf	30			res-pois			12	20	res-pois-len			1	1																																																																										0
+poisring1	1			0					3	rin	gfg	gsg					rin,crf	30			res-pois			12	20	res-pois-len			25	25																																																																										0
 firering2	1			0					3	rin	glr	gpr					rin,crf	30			res-fire			18	32	stam			25	40																																																																										0
 coldring2	1			0					3	rin	glb	gpb					rin,crf	30			res-cold			18	32	nofreeze			1	1																																																																										0
 ltngring2	1			0					3	rin	gly	gpy					rin,crf	30			res-ltng			18	32	light			3	4																																																																										0
-poisring2	1			0					3	rin	glg	gpg					rin,crf	30			res-pois			18	32	res-pois-len			1	1																																																																										0
+poisring2	1			0					3	rin	glg	gpg					rin,crf	30			res-pois			18	32	res-pois-len			50	50																																																																										0

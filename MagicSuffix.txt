@@ -211,14 +211,14 @@ of Quality		100	1	1	23	29	17				4	14	dmg-max		6	7											circ														0
 of Quality		100	1	1	30		22				4	14	dmg-max		7	8											circ														0
 of Maiming		100	1		37	44	29				4	14	dmg-max		9	10											circ														0
 of Maiming		100	1		45		37				4	14	dmg-max		11	12											circ														0
-of Craftsmanship		100	0	1	8	17	6				4	14	dmg-max		1	1											mcha														0
-of Craftsmanship		100	0	1	18		13				4	14	dmg-max		2	2											mcha														0
-of Quality		100	0	1	28	37	21				4	14	dmg-max		3	4											mcha														0
-of Quality		100	0	1	38		30				4	14	dmg-max		5	6											mcha														0
-of Maiming		100	0		48		40				4	14	dmg-max		7	8											mcha														0
-of Craftsmanship		100	0	1	21		15				4	14	dmg-max		1	1											scha														0
-of Quality		100	0	1	36		28				4	14	dmg-max		2	2											scha														0
-of Maiming		100	0		51		43				4	14	dmg-max		3	4											scha														0
+of Craftsmanship		100		1	8	17	6				4	14	dmg-max		1	1											mcha														0
+of Craftsmanship		100		1	18		13				4	14	dmg-max		2	2											mcha														0
+of Quality		100		1	28	37	21				4	14	dmg-max		3	4											mcha														0
+of Quality		100		1	38		30				4	14	dmg-max		5	6											mcha														0
+of Maiming		100			48		40				4	14	dmg-max		7	8											mcha														0
+of Craftsmanship		100		1	21		15				4	14	dmg-max		1	1											scha														0
+of Quality		100		1	36		28				4	14	dmg-max		2	2											scha														0
+of Maiming		100			51		43				4	14	dmg-max		3	4											scha														0
 of Ire		100	1	1	4		3				4	14	dmg-max		2	5											jewl														0
 of Wrath		100	1	1	11		8				4	14	dmg-max		6	9									1	blac	jewl														0
 of Carnage		100	1		25		18				4	14	dmg-max		11	15									1	blac	jewl														0
@@ -254,19 +254,19 @@ of Dexterity		1	1	1	13		9				3	17	dex		2	3											tors	boot						glov							0
 of Skill		1	1	1	34		26				3	17	dex		4	5											tors	boot						glov							0
 of Accuracy		1	1	1	46		38				3	17	dex		6	9											tors	boot						glov							0
 of Precision		100	1		60		52				3	17	dex		10	15									1	dgld	tors	boot						glov							0
-of Dexterity		100	1	1	1		1				4	31	dex		3	4											lcha														0
-of Dexterity		100	1	1	3		2				4	31	dex		2	3											mcha														0
-of Dexterity		100	1	1	7		5				4	31	dex		1	1											scha														0
-of Dexterity		100	1	1	14		10				4	31	dex		5	6											lcha														0
-of Dexterity		100	1	1	18		13				4	31	dex		4	5											mcha														0
-of Dexterity		100	1	1	22		16				4	31	dex		2	2											scha														0
+of Dexterity		100		1	1		1				4	31	dex		3	4											lcha														0
+of Dexterity		100		1	3		2				4	31	dex		2	3											mcha														0
+of Dexterity		100		1	7		5				4	31	dex		1	1											scha														0
+of Dexterity		100		1	14		10				4	31	dex		5	6											lcha														0
+of Dexterity		100		1	18		13				4	31	dex		4	5											mcha														0
+of Dexterity		100		1	22		16				4	31	dex		2	2											scha														0
 of Daring		100	1	1	7		5				3	17	dex		1	3											jewl														0
 of Balance		1	1	1	5		3				4	18	balance1		10	10											armo							glov							0
 of Equilibrium		1	1	1	9		6				4	18	balance2		17	17											tors	belt	shld												0
 of Stability		1	1	1	18		13				4	18	balance3		24	24									1	dyel	tors	belt													0
-of Balance		100	1	1	1		1				4	18	balance3		12	12											lcha														0
-of Balance		100	1	1	19		14				4	18	balance2		8	8											mcha														0
-of Balance		100	1	1	37		29				4	18	balance1		5	5									1	dyel	scha														0
+of Balance		100		1	1		1				4	18	balance3		12	12											lcha														0
+of Balance		100		1	19		14				4	18	balance2		8	8											mcha														0
+of Balance		100		1	37		29				4	18	balance1		5	5									1	dyel	scha														0
 of Truth		100	1	1	44		36				4	18	balance1		7	7											jewl														0
 of Regeneration		1	1	1	10		7				4	19	regen		3	5											scep	belt	ring	amul	circ										0
 of Regeneration		1	1	1	40		30				4	19	regen		3	5											shld	glov													0
@@ -278,12 +278,12 @@ of Honor		100	1	1	47		35				4	19	regen		1	4											jewl														0
 of Vileness		1	1	1	9		6				3	20	noheal		1	1											mele							rod	orb						0
 of Greed		1	1	1	1		1				4	21	gold%		25	40											ring	amul	circ												0
 of Wealth		1	1	1	17		12				4	21	gold%		41	80									1	lgld	boot	glov	belt	amul	circ										0
-of Greed		100	1	1	1		1				4	21	gold%		10	20											lcha														0
-of Greed		100	1	1	7		5				4	21	gold%		21	30											lcha														0
-of Greed		100	1	1	19		14				4	21	gold%		31	40											lcha														0
-of Greed		100	1	1	1		5				4	21	gold%		5	10											mcha														0
-of Greed		100	1	1	20		15				4	21	gold%		11	22											mcha														0
-of Greed		100	1	1	1		15				4	21	gold%		5	10											scha														0
+of Greed		100		1	1		1				4	21	gold%		10	20											lcha														0
+of Greed		100		1	7		5				4	21	gold%		21	30											lcha														0
+of Greed		100		1	19		14				4	21	gold%		31	40											lcha														0
+of Greed		100		1	1		5				4	21	gold%		5	10											mcha														0
+of Greed		100		1	20		15				4	21	gold%		11	22											mcha														0
+of Greed		100		1	1		15				4	21	gold%		5	10											scha														0
 of Avarice		100	1	1	1		1				4	21	gold%		10	30											jewl														0
 of Chance		1	1	1	12		9				4	22	mag%		5	15											boot	glov	ring	amul	circ										0
 of Fortune		1	1	1	16		12				4	22	mag%		16	25									1	lgld	boot	glov	amul	circ											0
@@ -331,24 +331,24 @@ of the Fox		1	1	1	17		13				3	26	hp		6	10											club	hamm	mace	ring	helm				
 of the Wolf		1	1	1	34		26				3	26	hp		11	20											club	hamm	mace	ring	helm										0
 of the Tiger		1	1	1	51		43				3	26	hp		21	30											club	hamm	mace	ring	helm										0
 of the Mammoth		1	1	1	68		60				3	26	hp		31	40									1	cred	club	hamm	mace	ring	helm										0
-of Life		100	1	1	1		1				4	26	hp		5	10											lcha														0
-of Life		100	1	1	9		6				4	26	hp		11	15											lcha														0
-of Life		100	1	1	19		14				4	26	hp		16	20											lcha														0
-of Substinence		100	1	1	31		23				4	26	hp		21	25											lcha														0
-of Substinence		100	1	1	45		37				4	26	hp		26	30											lcha														0
-of Substinence		100	1	1	61		53				4	26	hp		31	35											lcha														0
-of Vita		100	1		77		69				4	26	hp		36	40											lcha														0
-of Vita		100	1		91		83				4	26	hp		41	45											lcha														0
-of Vita		100	1		110		97				4	26	hp		46	50											lcha														0
-of Life		100	1	1	1		9				4	26	hp		6	10											mcha														0
-of Life		100	1	1	12		9				4	26	hp		11	15											mcha														0
-of Substinence		100	1	1	26		19				4	26	hp		16	20											mcha														0
-of Substinence		100	1	1	42		34				4	26	hp		21	25											mcha														0
-of Vita		100	1		58		50				4	26	hp		26	30											mcha														0
-of Vita		100	1		74		66				4	26	hp		31	35											mcha														0
-of Life		100	1	1	1		14				4	26	hp		5	10											scha														0
-of Substinence		100	1	1	23		17				4	26	hp		11	15											scha														0
-of Vita		100	1		47		39				4	26	hp		16	20											scha														0
+of Life		100		1	1		1				4	26	hp		5	10											lcha														0
+of Life		100		1	9		6				4	26	hp		11	15											lcha														0
+of Life		100		1	19		14				4	26	hp		16	20											lcha														0
+of Substinence		100		1	31		23				4	26	hp		21	25											lcha														0
+of Substinence		100		1	45		37				4	26	hp		26	30											lcha														0
+of Substinence		100		1	61		53				4	26	hp		31	35											lcha														0
+of Vita		100			77		69				4	26	hp		36	40											lcha														0
+of Vita		100			91		83				4	26	hp		41	45											lcha														0
+of Vita		100			110		97				4	26	hp		46	50											lcha														0
+of Life		100		1	1		9				4	26	hp		6	10											mcha														0
+of Life		100		1	12		9				4	26	hp		11	15											mcha														0
+of Substinence		100		1	26		19				4	26	hp		16	20											mcha														0
+of Substinence		100		1	42		34				4	26	hp		21	25											mcha														0
+of Vita		100			58		50				4	26	hp		26	30											mcha														0
+of Vita		100			74		66				4	26	hp		31	35											mcha														0
+of Life		100		1	1		14				4	26	hp		5	10											scha														0
+of Substinence		100		1	23		17				4	26	hp		11	15											scha														0
+of Vita		100			47		39				4	26	hp		16	20											scha														0
 of Spirit		100	1	1	1		1				4	26	hp		3	8											jewl														0
 of Hope		100	1		45		37				4	26	hp		9	20											jewl														0
 of the Leech		1	1	1	6		4				7	27	lifesteal		4	5											weap							orb							0
@@ -386,21 +386,21 @@ of Strength		1	1	1	12		8				3	31	str		1	2											mele	glov	shld					blun					
 of Might		1	1	1	33		25				3	31	str		3	5											mele	glov	shld					blun							0
 of the Ox		1	1	1	45		37				3	31	str		6	9											mele	glov	shld					blun							0
 of the Giant		100	1	1	59		51				3	31	str		10	15									1	dgld	mele	glov						blun							0
-of Strength		100	1	1	1		1				4	31	str		3	4											lcha														0
-of Strength		100	1	1	3		2				4	31	str		2	3											mcha														0
-of Strength		100	1	1	7		5				4	31	str		1	1											scha														0
-of Strength		100	1	1	14		10				4	31	str		5	6											lcha														0
-of Strength		100	1	1	18		13				4	31	str		4	5											mcha														0
-of Strength		100	1	1	22		16				4	31	str		2	2											scha														0
+of Strength		100		1	1		1				4	31	str		3	4											lcha														0
+of Strength		100		1	3		2				4	31	str		2	3											mcha														0
+of Strength		100		1	7		5				4	31	str		1	1											scha														0
+of Strength		100		1	14		10				4	31	str		5	6											lcha														0
+of Strength		100		1	18		13				4	31	str		4	5											mcha														0
+of Strength		100		1	22		16				4	31	str		2	2											scha														0
 of Virility		100	1	1	18		13				4	31	str		1	4											jewl														0
-of Pacing		1	1	1	12		8				3	35	move1		2	4											boot	circ													0
-of Haste		1	1	1	22		16				4	35	move2		6	8											boot	circ													0
-of Speed		1	1	1	37		29				4	35	move3		10	12											boot	circ													0
-of Traveling		100	1		65		57				4	35	move3		14	16	stamdrain		80	90							boot														0
+of Pacing		1	1	1	12	22	8				3	35	move1		2	4											boot														0
+of Haste		1	1	1	22	37	16				4	35	move2		6	8											boot														0
+of Speed		1	1	1	37	74	29				4	35	move3		10	12											boot														0
+of Traveling		100	1		65		57				4	35	move3		14	16	stamdrain		40	50							boot														0
 of Acceleration		100	1		51		43				4	35	move3		18	20											boot														0
-of Inertia		100	1	1	19		14				4	35	move3		5	5											lcha														0
-of Inertia		100	1	1	24		18				4	35	move2		3	3											mcha														0
-of Inertia		100	1		35		27				4	35	move1		1	1											scha														0
+of Inertia		100		1	19		14				4	35	move3		5	5											lcha														0
+of Inertia		100		1	24		18				4	35	move2		3	3											mcha														0
+of Inertia		100			35		27				4	35	move1		1	1											scha														0
 of Self-Repair		100	1	1	3		1				3	37	rep-dur	3													weap	armo						thro	miss						0
 of Fast Repair		100	1	1	20		12				2	37	rep-dur	5													weap	armo						thro	miss						0
 of Ages		100	1		50		42				1	39	indestruct														weap	armo						thro	miss						0
@@ -675,60 +675,60 @@ of Knowledge		100	1	1	41		33				3	23	enr		7	9											jewl														0
 of Virility		100	1	1	33		25				4	31	str		5	6											jewl														0
 of Virility		100	1	1	50		42				4	31	str		7	9											jewl														0
 of Readiness		1	1	1	20		15				2	7	swing1		10	10											glov														0
-of Craftsmanship		100	1	1	1		1				4	14	dmg-max		1	1											lcha														0
-of Quality		100	1	1	41		33				4	14	dmg-max		2	2											lcha														0
-of Maiming		100	1		71		63				4	14	dmg-max		3	4											lcha														0
-of Craftsmanship		100	1	1	26		19				4	14	dmg-max		1	1											mcha														0
-of Quality		100	1		56		48				4	14	dmg-max		2	2											mcha														0
-of Craftsmanship		100	1	1	85		77				4	14	dmg-max		1	1											scha														0
-of Blight		100	1	1	1		1				2	16	dmg-pois	75	21	21											lcha														0
-of Venom		100	1	1	6		4				1	16	dmg-pois	100	39	39											lcha														0
-of Pestilence		100	1	1	14		10				1	16	dmg-pois	125	52	52									1	dgrn	lcha														0
-of Anthrax		100	1		21		15				1	16	dmg-pois	150	86	86									1	dgrn	lcha														0
-of Blight		100	1	1	5		3				2	16	dmg-pois	75	21	21											mcha														0
-of Venom		100	1	1	13		9				1	16	dmg-pois	100	39	39											mcha														0
-of Pestilence		100	1	1	23		17				1	16	dmg-pois	125	52	52									1	dgrn	mcha														0
-of Anthrax		100	1		33		25				1	16	dmg-pois	150	86	86									1	dgrn	mcha														0
-of Blight		100	1	1	9		6				2	16	dmg-pois	75	21	21											scha														0
-of Venom		100	1	1	20		15				1	16	dmg-pois	100	39	39											scha														0
-of Pestilence		100	1	1	32		24				1	16	dmg-pois	125	52	52									1	dgrn	scha														0
-of Anthrax		100	1		44		36				1	16	dmg-pois	150	86	86									1	dgrn	scha														0
-of Frost		100	1	1	5		3				2	10	cold-min		1	1	cold-max		2	2	cold-len		25	25			lcha														0
-of the Icicle		100	1	1	8		6				1	10	cold-min		2	2	cold-max		3	4	cold-len		25	25			lcha														0
-of the Glacier		100	1	1	15		11				1	10	cold-min		3	3	cold-max		5	7	cold-len		25	25	1	dblu	lcha														0
-of Winter		100	1		23		17				1	10	cold-min		4	6	cold-max		8	11	cold-len		25	25	1	dblu	lcha														0
-of Frost		100	1	1	9		6				2	10	cold-min		1	1	cold-max		2	3	cold-len		25	25			mcha														0
-of the Icicle		100	1	1	15		11				1	10	cold-min		2	2	cold-max		4	5	cold-len		25	25			mcha														0
-of the Glacier		100	1	1	25		18				1	10	cold-min		3	3	cold-max		6	8	cold-len		25	25	1	dblu	mcha														0
-of Winter		100	1		35		27				1	10	cold-min		4	6	cold-max		9	12	cold-len		25	25	1	dblu	mcha														0
-of Frost		100	1	1	14		10				2	10	cold-min		1	1	cold-max		2	2	cold-len		25	25			scha														0
-of the Icicle		100	1	1	21		15				1	10	cold-min		2	2	cold-max		3	4	cold-len		25	25			scha														0
-of the Glacier		100	1	1	33		25				1	10	cold-min		3	3	cold-max		5	6	cold-len		25	25	1	dblu	scha														0
-of Winter		100	1		46		38				1	10	cold-min		4	5	cold-max		7	9	cold-len		25	25	1	dblu	scha														0
-of Flame		100	1	1	3		2				2	12	fire-min		1	1	fire-max		2	2							lcha														0
-of Fire		100	1	1	8		6				1	12	fire-min		1	2	fire-max		3	3							lcha														0
-of Burning		100	1	1	14		10				1	12	fire-min		2	3	fire-max		4	7					1	dred	lcha														0
-of Incineration		100	1		22		16				1	12	fire-min		4	7	fire-max		8	14					1	dred	lcha														0
-of Flame		100	1	1	7		5				2	12	fire-min		1	1	fire-max		2	2							mcha														0
-of Fire		100	1	1	14		10				1	12	fire-min		2	2	fire-max		3	5							mcha														0
-of Burning		100	1	1	24		18				1	12	fire-min		3	5	fire-max		6	11					1	dred	mcha														0
-of Incineration		100	1		34		26				1	12	fire-min		6	10	fire-max		12	17					1	dred	mcha														0
-of Flame		100	1	1	11		8				2	12	fire-min		1	1	fire-max		2	2							scha														0
-of Fire		100	1	1	20		15				1	12	fire-min		2	2	fire-max		3	4							scha														0
-of Burning		100	1	1	32		24				1	12	fire-min		3	4	fire-max		5	8					1	dred	scha														0
-of Incineration		100	1		45		37				1	12	fire-min		5	7	fire-max		9	13					1	dred	scha														0
-of Shock		100	1	1	4		3				2	13	ltng-min		1	1	ltng-max		2	3							lcha														0
-of Lightning		100	1	1	7		5				1	13	ltng-min		1	1	ltng-max		4	7							lcha														0
-of Thunder		100	1	1	15		11				1	13	ltng-min		1	1	ltng-max		8	21					1	dyel	lcha														0
-of Storms		100	1		22		16				1	13	ltng-min		1	1	ltng-max		22	33					1	dyel	lcha														0
-of Shock		100	1	1	7		5				2	13	ltng-min		1	1	ltng-max		3	5							mcha														0
-of Lightning		100	1	1	14		10				1	13	ltng-min		1	1	ltng-max		6	13							mcha														0
-of Thunder		100	1	1	24		18				1	13	ltng-min		1	1	ltng-max		14	25					1	dyel	mcha														0
-of Storms		100	1		34		26				1	13	ltng-min		1	1	ltng-max		26	38					1	dyel	mcha														0
-of Shock		100	1	1	12		9				2	13	ltng-min		1	1	ltng-max		3	6							scha														0
-of Lightning		100	1	1	21		15				1	13	ltng-min		1	1	ltng-max		7	10							scha														0
-of Thunder		100	1	1	33		25				1	13	ltng-min		1	1	ltng-max		11	18					1	dyel	scha														0
-of Storms		100	1		45		37				1	13	ltng-min		1	1	ltng-max		19	28					1	dyel	scha														0
+of Craftsmanship		100		1	1		1				4	14	dmg-max		1	1											lcha														0
+of Quality		100		1	41		33				4	14	dmg-max		2	2											lcha														0
+of Maiming		100			71		63				4	14	dmg-max		3	4											lcha														0
+of Craftsmanship		100		1	26		19				4	14	dmg-max		1	1											mcha														0
+of Quality		100			56		48				4	14	dmg-max		2	2											mcha														0
+of Craftsmanship		100		1	85		77				4	14	dmg-max		1	1											scha														0
+of Blight		100		1	1	14	1				2	16	dmg-pois	75	21	21											lcha														0
+of Venom		100		1	6	21	4				1	16	dmg-pois	100	39	39											lcha														0
+of Pestilence		100		1	14	50	10				1	16	dmg-pois	125	52	52									1	dgrn	lcha														0
+of Anthrax		100			21		15				1	16	dmg-pois	150	86	86									1	dgrn	lcha														0
+of Blight		100		1	5	23	3				2	16	dmg-pois	75	21	21											mcha														0
+of Venom		100		1	13	33	9				1	16	dmg-pois	100	39	39											mcha														0
+of Pestilence		100		1	23	50	17				1	16	dmg-pois	125	52	52									1	dgrn	mcha														0
+of Anthrax		100			33		25				1	16	dmg-pois	150	86	86									1	dgrn	mcha														0
+of Blight		100		1	9	32	6				2	16	dmg-pois	75	21	21											scha														0
+of Venom		100		1	20	44	15				1	16	dmg-pois	100	39	39											scha														0
+of Pestilence		100		1	32	50	24				1	16	dmg-pois	125	52	52									1	dgrn	scha														0
+of Anthrax		100			44		36				1	16	dmg-pois	150	86	86									1	dgrn	scha														0
+of Frost		100		1	5	15	3				2	10	cold-min		1	1	cold-max		2	2	cold-len		25	25			lcha														0
+of the Icicle		100		1	8	23	6				1	10	cold-min		2	2	cold-max		3	4	cold-len		25	25			lcha														0
+of the Glacier		100		1	15	50	11				1	10	cold-min		3	3	cold-max		5	7	cold-len		25	25	1	dblu	lcha														0
+of Winter		100			23		17				1	10	cold-min		4	6	cold-max		8	11	cold-len		25	25	1	dblu	lcha														0
+of Frost		100		1	9	25	6				2	10	cold-min		1	1	cold-max		2	3	cold-len		25	25			mcha														0
+of the Icicle		100		1	15	35	11				1	10	cold-min		2	2	cold-max		4	5	cold-len		25	25			mcha														0
+of the Glacier		100		1	25	50	18				1	10	cold-min		3	3	cold-max		6	8	cold-len		25	25	1	dblu	mcha														0
+of Winter		100			35		27				1	10	cold-min		4	6	cold-max		9	12	cold-len		25	25	1	dblu	mcha														0
+of Frost		100		1	14	33	10				2	10	cold-min		1	1	cold-max		2	2	cold-len		25	25			scha														0
+of the Icicle		100		1	21	46	15				1	10	cold-min		2	2	cold-max		3	4	cold-len		25	25			scha														0
+of the Glacier		100		1	33	50	25				1	10	cold-min		3	3	cold-max		5	6	cold-len		25	25	1	dblu	scha														0
+of Winter		100			46		38				1	10	cold-min		4	5	cold-max		7	9	cold-len		25	25	1	dblu	scha														0
+of Flame		100		1	3	14	2				2	12	fire-min		1	1	fire-max		2	2							lcha														0
+of Fire		100		1	8	22	6				1	12	fire-min		1	2	fire-max		3	3							lcha														0
+of Burning		100		1	14	50	10				1	12	fire-min		2	3	fire-max		4	7					1	dred	lcha														0
+of Incineration		100			22		16				1	12	fire-min		4	7	fire-max		8	14					1	dred	lcha														0
+of Flame		100		1	7	24	5				2	12	fire-min		1	1	fire-max		2	2							mcha														0
+of Fire		100		1	14	34	10				1	12	fire-min		2	2	fire-max		3	5							mcha														0
+of Burning		100		1	24	50	18				1	12	fire-min		3	5	fire-max		6	11					1	dred	mcha														0
+of Incineration		100			34		26				1	12	fire-min		6	10	fire-max		12	17					1	dred	mcha														0
+of Flame		100		1	11	32	8				2	12	fire-min		1	1	fire-max		2	2							scha														0
+of Fire		100		1	20	45	15				1	12	fire-min		2	2	fire-max		3	4							scha														0
+of Burning		100		1	32	50	24				1	12	fire-min		3	4	fire-max		5	8					1	dred	scha														0
+of Incineration		100			45		37				1	12	fire-min		5	7	fire-max		9	13					1	dred	scha														0
+of Shock		100		1	4	15	3				2	13	ltng-min		1	1	ltng-max		2	3							lcha														0
+of Lightning		100		1	7	22	5				1	13	ltng-min		1	1	ltng-max		4	7							lcha														0
+of Thunder		100		1	15	50	11				1	13	ltng-min		1	1	ltng-max		8	21					1	dyel	lcha														0
+of Storms		100			22		16				1	13	ltng-min		1	1	ltng-max		22	33					1	dyel	lcha														0
+of Shock		100		1	7	24	5				2	13	ltng-min		1	1	ltng-max		3	5							mcha														0
+of Lightning		100		1	14	34	10				1	13	ltng-min		1	1	ltng-max		6	13							mcha														0
+of Thunder		100		1	24	50	18				1	13	ltng-min		1	1	ltng-max		14	25					1	dyel	mcha														0
+of Storms		100			34		26				1	13	ltng-min		1	1	ltng-max		26	38					1	dyel	mcha														0
+of Shock		100		1	12	33	9				2	13	ltng-min		1	1	ltng-max		3	6							scha														0
+of Lightning		100		1	21	45	15				1	13	ltng-min		1	1	ltng-max		7	10							scha														0
+of Thunder		100		1	33	50	25				1	13	ltng-min		1	1	ltng-max		11	18					1	dyel	scha														0
+of Storms		100			45		37				1	13	ltng-min		1	1	ltng-max		19	28					1	dyel	scha														0
 of Dexterity		1	1	1	1	12	1				4	17	dex		1	1											boot	glov													0
 of Dexterity		1	1	1	1	5	1				4	17	dex		1	1											ring														0
 of Strength		1	1	1	1	11	1				4	31	str		1	1											glov														0
@@ -741,9 +741,9 @@ of Shock		1	1	1	1	3	1				4	13	dmg-ltng		1	3											weap							staf	wand	orb		
 of Regeneration		1	1	1	1	9	1				3	19	regen		2	2											amul	circ													0
 of Energy		1	1	1	1	4	1				4	23	enr		1	1											amul	orb	circ	wand	staf	helm	ring								0
 of Light		1	1	1	1	5	1				4	25	light		1	1	att		10	10							ring	amul													0
-of the Leech		100	1	1	24		20				2	27	lifesteal		2	3											amul														0
-of the Locust		100	1	1	57		45				2	27	lifesteal		4	5											amul														0
-of the Lamprey		100	1	1	85		73				2	27	lifesteal		6	6									1	cred	amul														0
-of the Bat		1	1	1	25		21				2	28	manasteal		2	3											ring														0
-of the Wraith		1	1	1	58		46				2	28	manasteal		4	5											ring														0
-of the Vampire		100	1	1	86		74				2	28	manasteal		6	6									1	cred	ring														0
+of the Leech		100	1	1	24	64	20				2	27	lifesteal		1	2											amul														0
+of the Locust		100	1	1	57		45				2	27	lifesteal		2	3											amul														0
+of the Lamprey		100	1	1	85		73				2	27	lifesteal		3	4									1	cred	amul														0
+of the Bat		1	1	1	25	64	21				2	28	manasteal		1	2											ring														0
+of the Wraith		1	1	1	58		46				2	28	manasteal		2	3											ring														0
+of the Vampire		100	1	1	86		74				2	28	manasteal		3	4									1	cred	ring														0

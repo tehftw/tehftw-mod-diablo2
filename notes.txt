@@ -36,7 +36,28 @@ BAR:
 
 4. important quote I heard: "dont linger" whilst playing Gauntlet
 
+---	items specialization
+
+items should be more specialized. currently, too many item slots have too many
+possible properties.
+
+Helm: ArmorClass , Stats , Resistance
+
+Chest: ArmorClass , Resistance , OtherDefensive(Thorns , HitRecovery , etc)
+
+Belt: Stats , GetHitSkill , 
+
+Boots: Stamina , HitRecovery , ArmorClass , RunSpeed
+
+Gloves: OffensiveModifiers(Heal) , OnHitSkill , CastRate , FastBlock
+
+Ring/Amulet: all things arcane: magic resistances , Energy
+
+
 ---	recipe plans
+
+this is mostly done now, as Crafted items. I leave the names because they look
+fun
 
 # crafted rings:
 
@@ -60,3 +81,5 @@ poison: , +poisonres , + poisondmg ,
 1. of Terra
 2. of Plague Doctor
 3. of Veles
+
+---

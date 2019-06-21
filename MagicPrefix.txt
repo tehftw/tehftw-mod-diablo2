@@ -1,21 +1,21 @@
 Name	*comment	version	spawnable	rare	level	maxlevel	levelreq	classspecific	class	classlevelreq	frequency	group	mod1code	mod1param	mod1min	mod1max	mod2code	mod2param	mod2min	mod2max	mod3code	mod3param	mod3min	mod3max	transform	transformcolor	itype1	itype2	itype3	itype4	itype5	itype6	itype7	etype1	etype2	etype3	etype4	etype5	divide	multiply	add
 																																									0
-Sturdy		0	1	1	4		3				0	101	ac%		25	40											armo														0
-Strong		0	1	1	9		6				0	101	ac%		41	50											armo														0
-Glorious		0	1	1	19		14				0	101	ac%		51	60											armo														0
-Blessed		0	1	1	25		18				0	101	ac%		61	85											armo														0
+Sturdy		0	1	1	4	19	3				0	101	ac%		25	40											armo														0
+Strong		0	1	1	9	25	6				0	101	ac%		41	50											armo														0
+Glorious		0	1	1	19	31	14				0	101	ac%		51	60											armo														0
+Blessed		0	1	1	25	36	18				0	101	ac%		61	85											armo														0
 Saintly		0	1	1	31		23				0	101	ac%		86	100									1	dgld	armo														0
 Holy		0	1	1	36		27				0	101	ac%		101	120									1	dgld	armo														0
-Devious		0	1	1	7		5				0	103	red-mag	0	1	2									1	dblu	shld														0
+Devious		0	1	1	7	20	5				0	103	red-mag	0	1	2									1	dblu	shld														0
 Fortified		0	1	1	14		10				0	103	red-mag	0	4	6									1	dblu	shld														0
 																																									0
 																																									0
 																																									0
-Jagged		0	1	1	1		1				0	106	dmg%	0	15	30											weap														0
-Deadly		0	1	1	5		3				0	106	dmg%	0	31	40											weap														0
-Vicious		0	1	1	8		6				0	106	dmg%	0	41	50											weap														0
-Brutal		0	1	1	14		10				0	106	dmg%	0	51	60											weap														0
-Massive		0	1	1	20		15				0	106	dmg%	0	61	85									1	dgld	weap														0
+Jagged		0	1	1	1	8	1				0	106	dmg%	0	15	30											weap														0
+Deadly		0	1	1	5	14	3				0	106	dmg%	0	31	40											weap														0
+Vicious		0	1	1	8	20	6				0	106	dmg%	0	41	50											weap														0
+Brutal		0	1	1	14	26	10				0	106	dmg%	0	51	60											weap														0
+Massive		0	1	1	20	32	15				0	106	dmg%	0	61	85									1	dgld	weap														0
 Savage		0	1	1	26		19				0	106	dmg%	0	86	100									1	dgld	weap							staf	wand						0
 Merciless		0	1	1	32		24				0	106	dmg%	0	101	120									1	dgld	weap							staf	wand						0
 Vulpine		0	1	1	9		6				0	107	dmg-to-mana	0	10	10									1	cblu	shld	amul													0
@@ -23,21 +23,21 @@ Vulpine		0	1	1	9		6				0	107	dmg-to-mana	0	10	10									1	cblu	shld	amul							
 																																									0
 																																									0
 																																									0
-Tireless		0	1	1	14		10				0	109	regen-stam	0	50	50											boot														0
+Tireless		0	1	1	14		10				0	109	regen-stam	0	25	25											boot														0
 Rugged		0	1	1	14		10				0	110	stam	0	5	10											boot	glov	belt	ring	amul										0
-Bronze		0	1	1	1		1				0	111	att	0	10	20											weap	ring	glov	amul											0
-Iron		0	1	1	4		3				0	111	att	0	21	40											weap	ring													0
-Steel		0	1	1	8		6				0	111	att	0	41	60											weap	ring													0
-Silver		0	1	1	12		9				0	111	att	0	61	80											weap	ring													0
+Bronze		0	1	1	1	8	1				0	111	att	0	10	20											weap	ring	glov	amul											0
+Iron		0	1	1	4	12	3				0	111	att	0	21	40											weap	ring													0
+Steel		0	1	1	8	17	6				0	111	att	0	41	60											weap	ring													0
+Silver		0	1	1	12	22	9				0	111	att	0	61	80											weap	ring													0
 																																									0
-Gold		0	1	1	17		12				0	111	att	0	81	100									1	lgld	weap														0
+Gold		0	1	1	17	27	12				0	111	att	0	81	100									1	lgld	weap														0
 Platinum		0	1	1	22		16				0	111	att	0	101	120									1	lgld	weap	ring													0
 Meteoric		0	1	1	27		20				0	111	att	0	121	150									1	lgld	weap	ring						staf	wand						0
-Sharp		0	1	1	5		3				0	112	att	0	10	20	dmg%	0	15	30							weap														0
-Fine		0	1	1	9		6				0	112	att	0	21	40	dmg%	0	31	40							weap														0
-Warrior's		0	1	1	15		11				0	112	att	0	41	60	dmg%	0	41	50							weap														0
-Soldier's		0	1	1	21		15				0	112	att	0	61	80	dmg%	0	51	60							weap														0
-Knight's		0	1	1	25		18				0	112	att	0	81	100	dmg%	0	61	70					1	dgld	weap														0
+Sharp		0	1	1	5	15	3				0	112	att	0	10	20	dmg%	0	15	30							weap														0
+Fine		0	1	1	9	21	6				0	112	att	0	21	40	dmg%	0	31	40							weap														0
+Warrior's		0	1	1	15	25	11				0	112	att	0	41	60	dmg%	0	41	50							weap														0
+Soldier's		0	1	1	21	30	15				0	112	att	0	61	80	dmg%	0	51	60							weap														0
+Knight's		0	1	1	25	35	18				0	112	att	0	81	100	dmg%	0	61	70					1	dgld	weap														0
 Lord's		0	1	1	30		22				0	112	att	0	101	120	dmg%	0	71	80					1	dgld	weap							staf	wand						0
 King's		0	1	1	35		26				0	112	att	0	121	150	dmg%	0	81	100					1	dgld	weap							staf	wand						0
 Howling		0	1	1	16		12				0	113	howl	0	128	128									1	oran	weap							miss							0
@@ -47,16 +47,16 @@ Fortuitous		0	1	1	5		3				0	114	mag%	0	10	15											ring	amul													0
 																																									0
 																																									0
 																																									0
-Glimmering		0	1	1	1		1				0	116	light	0	1	1											armo	wand	staf	ring	amul										0
-Glowing		0	1	1	6		4				0	116	light	0	2	2									1	lyel	armo	wand	staf	ring	amul										0
+Glimmering		0	0	1	1	12	1				0	116	light	0	1	2											armo	wand	staf	ring	amul										0
+Glowing		0	0	1	8		4				0	116	light	0	2	3									1	lyel	armo	wand	staf	ring	amul										0
 																																									0
 																																									0
-Lizard's		0	1	1	3		2				0	118	mana	0	1	5											armo	ring	amul	rod				boot	glov						0
+Lizard's		0	1	1	3	14	2				0	118	mana	0	1	5											armo	ring	amul	rod				boot	glov						0
 																																									0
-Snake's		0	1	1	6		4				0	118	mana	0	5	10											shld	rod	belt	ring	amul										0
-Serpent's		0	1	1	14		10				0	118	mana	0	11	20											shld	rod	belt	ring	amul										0
-Serpent's		0	1	1	37		27				0	118	mana	0	11	20											tors	helm	boot	glov	mele			h2h	rod						0
-Drake's		0	1	1	20		15				0	118	mana	0	21	30									1	cblu	rod	ring	amul	belt											0
+Snake's		0	1	1	6	37	4				0	118	mana	0	5	10											shld	rod	belt	ring	amul										0
+Serpent's		0	1	1	14	20	10				0	118	mana	0	11	20											shld	rod	belt	ring	amul										0
+Serpent's		0	1	1	37	24	27				0	118	mana	0	11	20											tors	helm	boot	glov	mele			h2h	rod						0
+Drake's		0	1	1	20	52	15				0	118	mana	0	21	30									1	cblu	rod	ring	amul	belt											0
 Dragon's		0	1	1	24		18				0	118	mana	0	31	40									1	cblu	rod	ring	amul												0
 Dragon's		0	1	1	52		39				0	118	mana	0	31	40									1	cblu	tors	helm	boot	glov											0
 Wyrm's		0	1	1	30		22				0	118	mana	0	41	60									1	cblu	rod	ring	amul												0
@@ -64,35 +64,35 @@ Wyrm's		0	1	1	30		22				0	118	mana	0	41	60									1	cblu	rod	ring	amul									
 																																									0
 Prismatic		0	1	1	27		20				0	120	res-all	0	15	25									1	lpur	amul														0
 Prismatic		0	1	1	62		46				0	120	res-all	0	15	15									1	lpur	ring														0
-Azure		0	1	1	5		3				0	121	res-cold	0	5	10											armo	rod	miss	ring	amul										0
-Lapis		0	1	1	12		9				0	121	res-cold	0	11	20											armo	ring	amul	rod											0
-Lapis		0	1	1	35		26				0	121	res-cold	0	11	20											weap	glov						rod							0
+Azure		0	1	1	5	24	3				0	121	res-cold	0	5	10											armo	rod	miss	ring	amul										0
+Lapis		0	1	1	12	48	9				0	121	res-cold	0	11	20											armo	ring	amul	rod											0
+Lapis		0	1	1	35	48	26				0	121	res-cold	0	11	20											weap	glov						rod							0
 Cobalt		0	1	1	18		13				0	121	res-cold	0	21	30											armo	ring	amul	rod				glov							0
 Cobalt		0	1	1	55		41				0	121	res-cold	0	21	30											weap	glov						rod							0
 																																									0
 Sapphire		0	1	1	25		18				0	121	res-cold	0	31	50									1	lblu	rod	boot	ring	amul	miss			scep							0
 																																									0
 																																									0
-Crimson		0	1	1	5		3				0	122	res-fire	0	5	10											armo	rod	miss	ring	amul	amul									0
-Burgundy		0	1	1	12		9				0	122	res-fire	0	11	20											armo	rod	ring	amul	amul										0
-Burgundy		0	1	1	35		26				0	122	res-fire	0	11	20											weap							rod							0
+Crimson		0	1	1	5	24	3				0	122	res-fire	0	5	10											armo	rod	miss	ring	amul	amul									0
+Burgundy		0	1	1	12	48	9				0	122	res-fire	0	11	20											armo	rod	ring	amul	amul										0
+Burgundy		0	1	1	35	48	26				0	122	res-fire	0	11	20											weap							rod							0
 Garnet		0	1	1	18		13				0	122	res-fire	0	21	30											armo	rod	ring	amul				glov							0
 Garnet		0	1	1	55		41				0	122	res-fire	0	21	30											weap	glov						rod							0
 																																									0
 Ruby		0	1	1	25		18				0	122	res-fire	0	31	50									1	lred	wand	staf	boot	ring	amul										0
 																																									0
 																																									0
-Ocher		0	1	1	5		3				0	123	res-ltng	0	5	10											armo	rod	ring	amul	miss										0
-Tangerine		0	1	1	12		9				0	123	res-ltng	0	11	20											armo	ring	amul	rod											0
-Tangerine		0	1	1	35		26				0	123	res-ltng	0	11	20											weap							rod							0
+Ocher		0	1	1	5	24	3				0	123	res-ltng	0	5	10											armo	rod	ring	amul	miss										0
+Tangerine		0	1	1	12	48	9				0	123	res-ltng	0	11	20											armo	ring	amul	rod											0
+Tangerine		0	1	1	35	48	26				0	123	res-ltng	0	11	20											weap							rod							0
 Coral		0	1	1	18		13				0	123	res-ltng	0	21	30											armo	ring	amul	rod				glov							0
 Coral		0	1	1	55		41				0	123	res-ltng	0	21	30											weap	glov						rod							0
 																																									0
 Amber		0	1	1	25		18				0	123	res-ltng	0	31	50									1	lyel	armo	ring	amul	staf	wand			shld	glov						0
 																																									0
 																																									0
-Beryl		0	1	1	5		3				0	124	res-pois	0	5	10											armo	ring	amul	scep	staf	miss									0
-Jade		0	1	1	12		9				0	124	res-pois	0	11	20											armo	ring	amul	scep	staf										0
+Beryl		0	1	1	5	24	3				0	124	res-pois	0	5	10											armo	ring	amul	scep	staf	miss									0
+Jade		0	1	1	12	48	9				0	124	res-pois	0	11	20											armo	ring	amul	scep	staf										0
 Jade		0	1	1	35		26				0	124	res-pois	0	11	20											weap	ring						staf	scep						0
 Viridian		0	1	1	18		13				0	124	res-pois	0	21	30											tors	helm	shld	scep	staf	ring	amul								0
 Viridian		0	1	1	55		41				0	124	res-pois	0	21	30											weap	boot	glov	belt				staf	scep						0
