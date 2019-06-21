@@ -154,11 +154,11 @@ Any Magic Gloves + R04 +  Normal Skull + Jewel > low gloves of leech	1			100				
 Any Magic Gloves + R06 +  Perf Skull + Jewel > low gloves of leech	1			100					4	glov,mag	jew	r06	skz				usetype,mag		75	30	lifesteal			6	8																																																																															0
 Magic ring + jewel + Perf Saphire + r32 - > crafted Nofreeze ring	1			100					4	rin,mag	jew	r32	gpb				usetype,crf		33	33	nofreeze			1	1	res-cold		5	10																																																																											0
 Magic ring + jewel + Perf Saphire + r10 - > rar Nofreeze ring	1			100					4	rin,mag	jew	r10	gpb				usetype,rar		50	50	nofreeze			1	1	res-cold		5	10																																																																											0
-firering1	1			0					3	rin,crf	gfr	gsr					rin	30			res-fire			12	20	stam			10	25																																																																										0
-coldring1	1			0					3	rin,crf	gfb	gsb					rin	30			res-cold			12	20	half-freeze			1	1																																																																										0
-ltngring1	1			0					3	rin,crf	gfy	gsy					rin	30			res-ltng			12	20	light			1	2																																																																										0
-poisring1	1			0					3	rin,crf	gfg	gsg					rin	30			res-pois			12	20	res-pois-len			1	1																																																																										0
-firering2	1			0					3	rin,crf	glr	gpr					rin	30			res-fire			18	32	stam			25	40																																																																										0
-coldring2	1			0					3	rin,crf	glb	gpb					rin	30			res-cold			18	32	nofreeze			1	1																																																																										0
-ltngring2	1			0					3	rin,crf	gly	gpy					rin	30			res-ltng			18	32	light			3	4																																																																										0
-poisring2	1			0					3	rin,crf	glg	gpg					rin	30			res-pois			18	32	res-pois-len			1	1																																																																										0
+firering1	1			0					3	rin	gfr	gsr					rin,crf	30			res-fire			12	20	stam			10	25																																																																										0
+coldring1	1			0					3	rin	gfb	gsb					rin,crf	30			res-cold			12	20	half-freeze			1	1																																																																										0
+ltngring1	1			0					3	rin	gfy	gsy					rin,crf	30			res-ltng			12	20	light			1	2																																																																										0
+poisring1	1			0					3	rin	gfg	gsg					rin,crf	30			res-pois			12	20	res-pois-len			1	1																																																																										0
+firering2	1			0					3	rin	glr	gpr					rin,crf	30			res-fire			18	32	stam			25	40																																																																										0
+coldring2	1			0					3	rin	glb	gpb					rin,crf	30			res-cold			18	32	nofreeze			1	1																																																																										0
+ltngring2	1			0					3	rin	gly	gpy					rin,crf	30			res-ltng			18	32	light			3	4																																																																										0
+poisring2	1			0					3	rin	glg	gpg					rin,crf	30			res-pois			18	32	res-pois-len			1	1																																																																										0
