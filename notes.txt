@@ -53,6 +53,20 @@ Gloves: OffensiveModifiers(Heal) , OnHitSkill , CastRate , FastBlock
 
 Ring/Amulet: all things arcane: magic resistances , Energy
 
+---	damage type specialization
+
+enlarge differences between damage types:
+
+fire	consistent, medium damage
+
+cold	weak damage , slow
+
+ltng	highly variable , potentially ultra damage
+
+pois	damage over time , high total damage
+
+
+also, make more stuff with magic damage. both in terms of dealing and defending
 
 ---	recipe plans
 
