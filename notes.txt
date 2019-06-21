@@ -35,3 +35,28 @@ BAR:
 3. but, if you get surrounded - your problem, and you deserve death. crowd control should be a big part of game
 
 4. important quote I heard: "dont linger" whilst playing Gauntlet
+
+---	recipe plans
+
+# crafted rings:
+
+fire: +fireres , + firedmg , + light
+1. of Pyro
+2. of Arsonist
+3. of Svarog
+
+
+cold: +coldres , +colddmg , lower cold
+1. of Crio
+2. of Arktos
+3. of Moroz
+
+lightning: +ltngres , +ltngdmg , + light radius
+1. of Thunder
+2. of 
+3. of Perun
+
+poison: , +poisonres , + poisondmg , 
+1. of Terra
+2. of Plague Doctor
+3. of Veles
