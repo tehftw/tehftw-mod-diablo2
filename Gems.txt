@@ -2,7 +2,7 @@ name	letter	transform	code	nummods	weaponMod1Code	weaponMod1Param	weaponMod1Min	
 Chipped Amethyst		18	gcv	3	att	0	40	40						0	0	0	str	0	3	3		0	0	0		0	0	0	ac	0	12	12		0	0	0		0	0	0
 Flawed Amethyst		18	gfv	3	att	0	60	60						0	0	0	str	0	4	4		0	0	0		0	0	0	ac	0	24	24		0	0	0		0	0	0
 Amethyst		18	gsv	3	att	0	80	80						0	0	0	str	0	6	6		0	0	0		0	0	0	ac	0	36	36		0	0	0		0	0	0
-Flawless Amethyst		18	gzv	3	att	0	100	100						0	0	0	str	0	8	8		0	0	0		0	0	0	ac	0	48	58		0	0	0		0	0	0
+Flawless Amethyst		18	gzv	3	att	0	100	100						0	0	0	str	0	8	8		0	0	0		0	0	0	ac	0	48	48		0	0	0		0	0	0
 Perfect Amethyst		17	gpv	3	att	0	150	150						0	0	0	str	0	10	10		0	0	0		0	0	0	ac	0	60	60		0	0	0		0	0	0
 Chipped Saphire		5	gcb	3	cold-min	0	1	1	cold-max	0	3	3	cold-len	0	30	30	enr	0	4	4		0	0	0		0	0	0	res-cold	0	12	12		0	0	0		0	0	0
 Flawed Saphire		5	gfb	3	cold-min	0	3	3	cold-max	0	6	6	cold-len	0	40	40	enr	0	8	8		0	0	0		0	0	0	res-cold	0	16	16		0	0	0		0	0	0
