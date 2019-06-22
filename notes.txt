@@ -53,6 +53,7 @@ Gloves: OffensiveModifiers(Heal) , OnHitSkill , CastRate , FastBlock
 
 Ring/Amulet: all things arcane: magic resistances , Energy
 
+
 ---	damage type specialization
 
 enlarge differences between damage types:
@@ -96,4 +97,16 @@ poison: , +poisonres , + poisondmg ,
 2. of Plague Doctor
 3. of Veles
 
----
+---	barbarian combat masteries
+
+DMG 
+
+ToHit
+
+IAS AttackRating
+
+deadly strike
+
+crushing blow
+
+open wounds
