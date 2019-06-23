@@ -195,43 +195,43 @@ abs-thrust																														Absorb Thrusting Damage		min amt	max amt
 abs-slash%																														Absorb Slashing Damage %		min %	max %	random amount from min to max is assigned to item	0
 abs-crush%																														Absorb Crushing Damage %		min %	max %	random amount from min to max is assigned to item	0
 abs-thrust%																														Absorb Thrusting Damage %		min %	max %	random amount from min to max is assigned to item	0
-ac/time	1			18	item_armor_bytime																									"AC / time increment (0=day, 1=dusk, 2=night, 3=dawn)"	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-ac%/time	1			18	item_armorpercent_bytime																									AC% / time increment (8 periods)	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-hp/time	1			18	item_hp_bytime																									HP / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-mana/time	1			18	item_mana_bytime																									Mana / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg/time	1			18	item_maxdamage_bytime																									Max Damage / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg%/time	1			18	item_maxdamage_percent_bytime																									Max Damage % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-str/time	1			18	item_strength_bytime																									Strength / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dex/time	1			18	item_dexterity_bytime																									Dexterity / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-enr/time	1			18	item_energy_bytime																									Energy / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-vit/time	1			18	item_vitality_bytime																									Vitality / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att/time	1			18	item_tohit_bytime																									To hit / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att%/time	1			18	item_tohitpercent_bytime																									To Hit % / time increment	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-cold/time	1			18	item_cold_damagemax_bytime																									Cold Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-fire/time	1			18	item_fire_damagemax_bytime																									Fire Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-ltng/time	1			18	item_ltng_damagemax_bytime																									Lightning Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-pois/time	1			18	item_pois_damagemax_bytime																									Poison Damage Max / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-cold/time	1			18	item_resist_cold_bytime																									Resist Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-fire/time	1			18	item_resist_fire_bytime																									Resist Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-ltng/time	1			18	item_resist_ltng_bytime																									Resist Lightning / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-res-pois/time	1			18	item_resist_pois_bytime																									Resist Poison / time inc	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-cold/time	1			18	item_absorb_cold_bytime																									Absorb Cold / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-fire/time	1			18	item_absorb_fire_bytime																									Absorb Fire / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-ltng/time	1			18	item_absorb_ltng_bytime																									Absorb Lightning / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-abs-pois/time	1			18	item_absorb_pois_bytime																									Absorb Poison / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-gold%/time	1			18	item_find_gold_bytime																									Find Gold Amt % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-mag%/time	1			18	item_find_magic_bytime																									Find Magic % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-regen-stam/time	1			18	item_regenstamina_bytime																									% / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-stam/time	1			18	item_stamina_bytime																									Stamina / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-dem/time	1			18	item_damage_demon_bytime																									Damage to Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-dmg-und/time	1			18	item_damage_undead_bytime																									Damage to Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att-dem/time	1			18	item_tohit_demon_bytime																									To Hit Demons % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-att-und/time	1			18	item_tohit_undead_bytime																									To Hit Undead % / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-crush/time	1			18	item_crushingblow_bytime																									% chance of Crushing Blow / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-wounds/time	1			18	item_openwounds_bytime																									+% chance of Open Wounds / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-kick/time	1			18	item_kick_damage_bytime																									Kick Damage / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-deadly/time	1			18	item_deadlystrike_bytime																									+% chance of Deadly Strike / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
-gems%/time																														+% chance of finding Gems / time inc.	center period	min	max	"max at center period, min at opposite period, linear progression"	0
+ac/time	1			18	item_armor_bytime																									AC / time increment (0=day, 1=dusk, 2=night, 3=dawn)	center period	min	max	max at center period, min at opposite period, linear progression	0
+ac%/time	1			18	item_armorpercent_bytime																									AC% / time increment (8 periods)	center period	min	max	max at center period, min at opposite period, linear progression	0
+hp/time	1			18	item_hp_bytime																									HP / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+mana/time	1			18	item_mana_bytime																									Mana / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg/time	1			18	item_maxdamage_bytime																									Max Damage / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg%/time	1			18	item_maxdamage_percent_bytime																									Max Damage % / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+str/time	1			18	item_strength_bytime																									Strength / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+dex/time	1			18	item_dexterity_bytime																									Dexterity / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+enr/time	1			18	item_energy_bytime																									Energy / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+vit/time	1			18	item_vitality_bytime																									Vitality / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+att/time	1			18	item_tohit_bytime																									To hit / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+att%/time	1			18	item_tohitpercent_bytime																									To Hit % / time increment	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg-cold/time	1			18	item_cold_damagemax_bytime																									Cold Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg-fire/time	1			18	item_fire_damagemax_bytime																									Fire Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg-ltng/time	1			18	item_ltng_damagemax_bytime																									Lightning Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg-pois/time	1			18	item_pois_damagemax_bytime																									Poison Damage Max / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+res-cold/time	1			18	item_resist_cold_bytime																									Resist Cold / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+res-fire/time	1			18	item_resist_fire_bytime																									Resist Fire / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+res-ltng/time	1			18	item_resist_ltng_bytime																									Resist Lightning / time inc	center period	min	max	max at center period, min at opposite period, linear progression	0
+res-pois/time	1			18	item_resist_pois_bytime																									Resist Poison / time inc	center period	min	max	max at center period, min at opposite period, linear progression	0
+abs-cold/time	1			18	item_absorb_cold_bytime																									Absorb Cold / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+abs-fire/time	1			18	item_absorb_fire_bytime																									Absorb Fire / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+abs-ltng/time	1			18	item_absorb_ltng_bytime																									Absorb Lightning / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+abs-pois/time	1			18	item_absorb_pois_bytime																									Absorb Poison / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+gold%/time	1			18	item_find_gold_bytime																									Find Gold Amt % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+mag%/time	1			18	item_find_magic_bytime																									Find Magic % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+regen-stam/time	1			18	item_regenstamina_bytime																									% / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+stam/time	1			18	item_stamina_bytime																									Stamina / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg-dem/time	1			18	item_damage_demon_bytime																									Damage to Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+dmg-und/time	1			18	item_damage_undead_bytime																									Damage to Undead % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+att-dem/time	1			18	item_tohit_demon_bytime																									To Hit Demons % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+att-und/time	1			18	item_tohit_undead_bytime																									To Hit Undead % / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+crush/time	1			18	item_crushingblow_bytime																									% chance of Crushing Blow / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+wounds/time	1			18	item_openwounds_bytime																									+% chance of Open Wounds / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+kick/time	1			18	item_kick_damage_bytime																									Kick Damage / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+deadly/time	1			18	item_deadlystrike_bytime																									+% chance of Deadly Strike / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
+gems%/time																														+% chance of finding Gems / time inc.	center period	min	max	max at center period, min at opposite period, linear progression	0
 pierce-fire	1			1	passive_fire_pierce																									Negates % of Enemy Cold Resistance		min	max	none	0
 pierce-ltng	1			1	passive_ltng_pierce																									Negates % of Enemy Fire Resistance		min	max	none	0
 pierce-cold	1			1	passive_cold_pierce																									Negates % of Enemy Lightning Resistance		min	max	none	0
@@ -268,3 +268,4 @@ ethereal	1			23																															0
 oskill	1			22	item_nonclassskill																										Skill	min level	max level	none	0
 state	1			24	state																										state	1	1		0
 randclassskill	1		3	36	item_addclassskills																														0
+splash	1	skill/chance/level		11	item_splashonhit																									splash	proc_SplashDamage	100	1		0
