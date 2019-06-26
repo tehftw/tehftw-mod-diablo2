@@ -118,26 +118,26 @@ Berserker's		0	1	1	90		67				0	129	bar	0	2	2									1	cgrn	amul														0
 																																									0
 Triumphant		0	1	1	3		2				0	132	mana-kill	0	1	1											mele	ring													0
 Expansion																																									0
-Stout		100	1	1	1	12	1				4	101	ac		3	5											lcha														0
-Stout		100	1	1	7	17	5				4	101	ac		6	9											lcha														0
-Stout		100	1	1	12	22	9				4	101	ac		10	12											lcha														0
-Burly		100	1	1	17	27	12				4	101	ac		13	15											lcha														0
-Burly		100	1	1	22	32	16				4	101	ac		16	22											lcha														0
-Burly		100	1	1	27	37	20				4	101	ac		23	30											lcha														0
-Stalwart		100	1	1	32		24				4	101	ac		33	40											lcha														0
-Stalwart		100	1	1	37		29				4	101	ac		44	50											lcha														0
-Stalwart		100	1	1	42		34				4	101	ac		60	100											lcha														0
-Stout		100	1	1	1	14	1				4	101	ac		2	3											mcha														0
-Stout		100	1	1	14	20	10				4	101	ac		4	6											mcha														0
-Stout		100	1	1	20	26	15				4	101	ac		8	12											mcha														0
-Burly		100	1	1	26	32	19				4	101	ac		13	18											mcha														0
-Burly		100	1	1	32	45	24				4	101	ac		20	30											mcha														0
-Stalwart		100	1	1	38		30				4	101	ac		30	40											mcha														0
-Stalwart		100	1	1	45		37				4	101	ac		45	60											mcha														0
-Stout		100	1	1	1	21	1				4	101	ac		1	1											scha														0
-Stout		100	1	1	21	36	15				4	101	ac		4	8											scha														0
-Burly		100	1	1	36		28				4	101	ac		15	20											scha														0
-Stalwart		100	1	1	48		40				4	101	ac		20	30											scha														0
+Stout		100		1	1	12	1				4	101	ac		3	5											lcha														0
+Stout		100		1	7	17	5				4	101	ac		6	9											lcha														0
+Stout		100		1	12	22	9				4	101	ac		10	12											lcha														0
+Burly		100		1	17	27	12				4	101	ac		13	15											lcha														0
+Burly		100		1	22	32	16				4	101	ac		16	22											lcha														0
+Burly		100		1	27	37	20				4	101	ac		23	30											lcha														0
+Stalwart		100		1	32		24				4	101	ac		33	40											lcha														0
+Stalwart		100		1	37		29				4	101	ac		44	50											lcha														0
+Stalwart		100		1	42		34				4	101	ac		60	100											lcha														0
+Stout		100		1	1	14	1				4	101	ac		2	3											mcha														0
+Stout		100		1	14	20	10				4	101	ac		4	6											mcha														0
+Stout		100		1	20	26	15				4	101	ac		8	12											mcha														0
+Burly		100		1	26	32	19				4	101	ac		13	18											mcha														0
+Burly		100		1	32	45	24				4	101	ac		20	30											mcha														0
+Stalwart		100		1	38		30				4	101	ac		30	40											mcha														0
+Stalwart		100		1	45		37				4	101	ac		45	60											mcha														0
+Stout		100		1	1	21	1				4	101	ac		1	1											scha														0
+Stout		100		1	21	36	15				4	101	ac		4	8											scha														0
+Burly		100		1	36		28				4	101	ac		15	20											scha														0
+Stalwart		100		1	48		40				4	101	ac		20	30											scha														0
 Blanched		100	1	1	1	32	1				4	101	ac		9	15									1	whit	jewl														0
 Eburin		100	1	1	16	64	12				4	101	ac		16	30									1	whit	jewl														0
 Bone		100	1	1	32		24				4	101	ac		31	45									1	whit	jewl														0
@@ -154,17 +154,17 @@ Devious		1	0	1	7	21	5				5	102	red-mag		2	3											shld	circ	orb	wand	staf			
 Blank		1	0	1	14	28	10				4	102	red-mag		4	6											shld	circ	orb	wand	staf										0
 Null		100	0	1	21		16				4	102	red-mag		7	9									1	dblu	shld	circ													0
 Antimagic		100	0	1	28		21				4	102	red-mag		10	13									1	dblu	shld	circ													0
-Red		100	0	1	4	28	3				4	103	dmg-min		1	2									1	dred	lcha														0
-Red		100	0	1	16	40	12				4	103	dmg-min		3	3									1	dred	lcha														0
-Sanguinary		100	0	1	28	52	21				4	103	dmg-min		4	4									1	dred	lcha														0
-Sanguinary		100	0	1	40		32				4	103	dmg-min		5	6									1	dred	lcha														0
-Bloody		100	0	1	52		46				4	103	dmg-min		7	8									1	dred	lcha														0
-Red		100	0	1	11	33	8				4	103	dmg-min		1	2									1	dred	mcha														0
-Sanguinary		100	0	1	33	55	25				4	103	dmg-min		3	3									1	dred	mcha														0
-Bloody		100	0	1	55		47				4	103	dmg-min		4	4									1	dred	mcha														0
-Red		100	0	1	24	41	16				4	103	dmg-min		1	1									1	dred	scha														0
-Sanguinary		100	0	1	41		33				4	103	dmg-min		2	2									1	dred	scha														0
-Bloody		100	0	1	58		50				4	103	dmg-min		3	3									1	dred	scha														0
+Red		100		1	4	28	3				4	103	dmg-min		1	2									1	dred	lcha														0
+Red		100		1	16	40	12				4	103	dmg-min		3	3									1	dred	lcha														0
+Sanguinary		100		1	28	52	21				4	103	dmg-min		4	4									1	dred	lcha														0
+Sanguinary		100		1	40		32				4	103	dmg-min		5	6									1	dred	lcha														0
+Bloody		100		1	52		46				4	103	dmg-min		7	8									1	dred	lcha														0
+Red		100		1	11	33	8				4	103	dmg-min		1	2									1	dred	mcha														0
+Sanguinary		100		1	33	55	25				4	103	dmg-min		3	3									1	dred	mcha														0
+Bloody		100		1	55		47				4	103	dmg-min		4	4									1	dred	mcha														0
+Red		100		1	24	41	16				4	103	dmg-min		1	1									1	dred	scha														0
+Sanguinary		100		1	41		33				4	103	dmg-min		2	2									1	dred	scha														0
+Bloody		100		1	58		50				4	103	dmg-min		3	3									1	dred	scha														0
 Scarlet		100	1	1	8	38	6				4	103	dmg-min		3	7									1	dred	jewl														0
 Crimson		100	1	1	38		30				4	103	dmg-min		8	14									1	dred	jewl														0
 Jagged		100	0	1	3	17	2				4	104	dmg-max		1	2									1	blac	lcha														0
@@ -669,8 +669,8 @@ Tangerine		1	1	1	1	4	1				3	119	res-ltng		5	5											armo	ring	amul	orb	circ	
 Beryl		1	1	1	1	4	1				3	120	res-pois		5	5											armo	ring	amul	orb	circ										0
 Godly		100	1	1	50		43				1	101	ac%		101	200									1	dgld	armo														0
 Cruel		100	1	1	56		48				1	105	dmg%		201	300									1	blac	weap							staf	wand	orb					0
-Inhuman		100	1	1	70		60				1	105	dmg%		301	400									1	blac	weap							staf	wand	orb					0
+Inhuman		100		1	70		60				1	105	dmg%		301	400									1	blac	weap							staf	wand	orb					0
 																																									0
 																																									0
-Cleaving		100		1	1		1				3	142	splash	proc_SplashDamage	100	1									1	blac	jewl	weap													0
-Desolating		100		1	1		1				1	142	dmg%		10	40	splash	proc_SplashDamage	100	1					1	blac	jewl	weap													0
+Cleaving		100		1	8		1				3	105	splash	proc_SplashDamage	100	1	dmg%		10	40					1	blac	mele														0
+Desolating		100		1	40		1				1	105	splash	proc_SplashDamage	100	1	dmg%		30	60					1	blac	mele														0

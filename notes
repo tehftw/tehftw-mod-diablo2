@@ -122,4 +122,43 @@ GambleRune6	25-28
 GambleRune7	29-33
 
 
+---	ref strings
 
+ModStr1c	to Vitality
+
+---	my strings
+
+SkillnameBarSlam	Seismic Slam	
+
+SkillshortBarSlam	deal damage in a cone	
+
+SkilllstrlongBarSlam	deal area damage in a cone in front of you	
+
+SkillstraltBarSlam	Seismic Slam	
+
+ModStr_splashonhit	splash damage on hit
+
+
+
+skillname_legtransportmastery	Leg Transport Mastery
+skillstrshort_legtransportmastery	
+skilllstrlong_legtransportmastery	
+skillstralt_legtransportmastery	Leg Transport Mastery
+
+---	gold sinks
+
+currently, only melee fighters have reliable gold sinks(repairs)
+
+ideas:
+
+# magic casters
+
+1. elixirs : boost energy
+
+2. scrolls and charged items with powerful(some exclusive) buffs
+
+3. special mana potions that cost a lot
+
+# bowazon:
+
+1. high cost of arrows/bolt

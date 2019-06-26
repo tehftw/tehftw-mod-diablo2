@@ -25,13 +25,13 @@ spiderlay	22																																																																				
 dimvision	23						1	1																																				cursedimvision					curse_hit														necromancer_dimvision								0
 slowed	24																																																																						0
 fetishaura	25																																											fetish_aura							attackrate																				0
-shout	26					1										1																												shout					shoutstart		skill_armor_percent																				0
+shout	26	2				1										1																												shout					shoutstart		skill_armor_percent																				0
 taunt	27						1	1						1	1																													taunt																			barbarian_battlecry_state								0
 conviction	28					1																																						convictionfront	convictionback																		paladin_aura_purification								0
 convicted	29					1																		1	1	1	1																	convictionfront	convictionback						skill_conviction																				0
 energyshield	30																																											energyshield																											0
 venomclaws	31																																																		poisonmindam					mele	cgrn														0
-battleorders	32					1																																						battleorders					battleorderscast		maxmana																				0
+battleorders	32	2				1																																						battleorders					battleorderscast		maxmana																				0
 might	33					1				1					1																													aura_might_front	aura_might_back						damagepercent												paladin_aura_might								0
 prayer	34					1																																						aura_prayer_front	aura_prayer_back																		paladin_aura_prayer								0
 holyfire	35					1																																						aura_holyfire_front	aura_holyfire_back																		paladin_aura_holyfire								0
@@ -50,7 +50,7 @@ sanctuary	47					1			1																																			sanctuaryfront	sanctuar
 meditation	48					1				1																																		meditationfront	meditationback																		paladin_aura_meditation								0
 fanaticism	49					1				1				1	1																													fanaticismfront	fanaticismback						attackrate												paladin_aura_fanatacism								0
 redemption	50					1																																						redemptionfront	redemptionback																		paladin_aura_redemption								0
-battlecommand	51					1																																						battlecommand					battlecommandcast																						0
+battlecommand	51	2				1																																						battlecommand					battlecommandcast																						0
 preventheal	52									1																										1																																			0
 conversion	53																												1															conversionaura																			paladin_conversion								0
 uninterruptable	54																																																				7																		0
